@@ -1,0 +1,36 @@
+git向github上传
+git init 
+git add...commit
+git remote add origin https://github.com/PeriHe/vue-blog.git
+git push -u origin master
+ok
+在博客中预览vue项目
+1.npm run build
+2.打开index.html加载不出
+3.将config里的index.js里改成assetsPublicPath: './',
+
+
+router-link-active设置导航激活状态
+1.中英文翻译
+2.指导记录，1星期1次。方向，框架辅导，十次左右，两三句话。
+3.答辩说明
+4.软件说明，源代码。格式一样。星期一之前交
+
+导入导出组件
+路由管理
+过渡效果有问题
+
+
+
+
+
+文章 归档 关于
+
+博客样子：
+http://www.nitrohe.xin/首页
+https://blog.waydrow.com/导航
+博客模板：
+https://lenpaul.github.io/Lagrange/
+http://ankitsultana.com/researcher/
+有分类的：http://www.programmer.top/Princess-Diaries.html
+博客详情页http://jekyllthemes.org/themes/cayman-blog/

@@ -28,7 +28,7 @@ export default {
 
 <style>
   #app{
-    width: 50rem;
+    max-width: 50rem;
     margin: 2rem auto;
     padding:1rem 5rem;
     min-height: 100rem;
